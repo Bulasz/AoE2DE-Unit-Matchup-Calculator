@@ -1,0 +1,3 @@
+# Only needed on a PC with AoE2 DE installed, to (re-)extract data/game_data.json
+genieutils-py>=0.1.2
+requests>=2.31
